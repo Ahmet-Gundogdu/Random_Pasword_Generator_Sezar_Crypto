@@ -14,9 +14,12 @@ Sezar crypto in  sifrelEme.py
 Sezar Decrypto in sifreCozme.py
 
 Sezar Crypto text in Denemez.txt ( 50 - 60 - 70 Keys)
+
 \/ Decrypto text \/
 Try1        Try11
 Try2        Try22
 Try3        Try3
+
+Exe_link: https://drive.google.com/file/d/1I2iHt4rboxiYdRB-5mcKeVDpsP7TrStC/view
 
 ```
